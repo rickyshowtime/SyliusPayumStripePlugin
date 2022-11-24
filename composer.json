@@ -11,7 +11,6 @@
         }
     ],
     "require": {
-        "flux-se/payum-stripe-bundle": "*",
         "sylius/sylius": "^1.4"
     },
     "require-dev": {
