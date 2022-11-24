@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "flux-se/payum-stripe-bundle": "^2.0",
+        "flux-se/payum-stripe-bundle": "dev-rickyshowtime-patch-1",
         "sylius/sylius": "^1.4"
     },
     "require-dev": {
